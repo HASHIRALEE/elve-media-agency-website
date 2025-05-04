@@ -1,8 +1,6 @@
 # elve-media-agency-website
 A professional, modern marketing agency website for ElveMedia, designed to grow creators' social media presence and showcase services and collaborations.
 
-# ElveMedia Agency Website 🌐
-
 ElveMedia is a digital marketing agency that helps content creators, influencers, and brands grow their social media presence, engagement, and audience. This website showcases our services, featured creators, blog, and contact section.
 
 ## 🔧 Features
